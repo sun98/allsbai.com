@@ -1,6 +1,10 @@
-# Books of Teyvat
+# allsbai.com
 
-[Books of Teyvat](https://genshinbooks.allsbai.com/) is an independent fan reading room for Genshin Impact’s English books and quest texts.
+Independent websites, gathered under one address.
+
+## Genshin Impact Books
+
+[Genshin Impact Books](https://genshinbooks.allsbai.com/) is an independent fan reading room by allsbai.com, with English books, quest notes, letters and journals.
 
 [![The Genshin Impact Books reading room, with featured English book texts](assets/library-preview.png)](https://genshinbooks.allsbai.com/)
 
