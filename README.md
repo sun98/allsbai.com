@@ -1,8 +1,6 @@
-# sun98
+# Books of Teyvat
 
-## Genshin Impact Books
-
-I maintain [Genshin Impact Books](https://genshinbooks.allsbai.com/), an independent fan reading room for the game's English book texts.
+[Books of Teyvat](https://genshinbooks.allsbai.com/) is an independent fan reading room for Genshin Impact’s English books and quest texts.
 
 [![The Genshin Impact Books reading room, with featured English book texts](assets/library-preview.png)](https://genshinbooks.allsbai.com/)
 
